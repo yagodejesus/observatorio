@@ -160,7 +160,7 @@ body {
 /*** Header imagen de fundo da home***/
 .hero-header {
     
-    background: linear-gradient(rgba(75, 75, 75, 0.9), rgba(31, 31, 31, 0.9)), url(../img/bg-hero.png);
+    background: linear-gradient(rgba(97, 97, 97, 0.9), rgba(57, 57, 57, 0.9)), url(../img/bg-hero.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
