@@ -110,7 +110,7 @@ body {
 
 /*Tamanho da logo na parte superior esquerda navbar*/
 .navbar-dark .navbar-brand img {
-    max-height: 100px;
+    max-height: 125px;
     transition: .5s;
 }
 
