@@ -11,7 +11,6 @@
     };
     spinner();
 
-    
     // Inicia o carrossel
     var myCarousel = new bootstrap.Carousel(document.querySelector('.carousel'), {
         interval: 2500, // Intervalo de 2 segundos e meio
