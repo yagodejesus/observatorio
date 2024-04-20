@@ -5,13 +5,12 @@
     --dark: #856647;
 }
 
-
 body {
     font-size: 1rem;
 }
 
 .ff-secondary {
-    font-family: 'consola', cursive;
+    font-family: 'Inconsolata';
 }
 
 .fw-medium {
@@ -48,7 +47,7 @@ body {
 
 /*** Button ***/
 .btn {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     transition: .5s;
