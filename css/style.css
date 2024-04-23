@@ -5,6 +5,17 @@
     --dark: #856647;
 }
 
+.card-small {
+    width: 1000px;
+}
+
+.zoom-img {
+    transition: transform 0.2s;
+}
+.zoom-img:hover {
+    transform: scale(1.1); /* Ajuste o valor conforme necessário */
+}
+
 body {
     font-size: 1rem;
 }
